@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D02ZtDKW5aQSTObCIlQ0Z6TrTbLC+/rZAgpun+ZSEkdUuggddjl6YMQ0bwvB+iqpKuLl8wgNXIGMzNfUqhg1QA==",
+  "dgSpecHash": "rdPnGujii9u9eAzoGa5pdJgjy+JLFd7jws3Rjq1LYu6WiWi4E5+IkjXth6Z72f1ldh9ey6G/LfgsSARayeNs6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\osknowpa\\AGV_backgroundTask\\AGV_BackgroundTask\\AGV_BackgroundTask.csproj",
+  "projectFilePath": "C:\\Users\\osknowpa\\AGV_BacgroundTask_v2\\AGV_BackgroundTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\osknow\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\osknow\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

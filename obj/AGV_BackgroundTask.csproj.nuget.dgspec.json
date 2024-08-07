@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\osknowpa\\AGV_backgroundTask\\AGV_BackgroundTask\\AGV_BackgroundTask.csproj": {}
+    "C:\\Users\\osknowpa\\AGV_BacgroundTask_v2\\AGV_BackgroundTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\osknowpa\\AGV_backgroundTask\\AGV_BackgroundTask\\AGV_BackgroundTask.csproj": {
+    "C:\\Users\\osknowpa\\AGV_BacgroundTask_v2\\AGV_BackgroundTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osknowpa\\AGV_backgroundTask\\AGV_BackgroundTask\\AGV_BackgroundTask.csproj",
+        "projectUniqueName": "C:\\Users\\osknowpa\\AGV_BacgroundTask_v2\\AGV_BackgroundTask.csproj",
         "projectName": "AGV_BackgroundTask",
-        "projectPath": "C:\\Users\\osknowpa\\AGV_backgroundTask\\AGV_BackgroundTask\\AGV_BackgroundTask.csproj",
+        "projectPath": "C:\\Users\\osknowpa\\AGV_BacgroundTask_v2\\AGV_BackgroundTask.csproj",
         "packagesPath": "C:\\Users\\osknow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osknowpa\\AGV_backgroundTask\\AGV_BackgroundTask\\obj\\",
+        "outputPath": "C:\\Users\\osknowpa\\AGV_BacgroundTask_v2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\osknow\\AppData\\Roaming\\NuGet\\NuGet.Config",
