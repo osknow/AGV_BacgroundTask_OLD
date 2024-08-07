@@ -16,7 +16,7 @@ namespace AGV_BackgroundTask.SubPrograms
             {
                 try
                 {
-                    string url = "https://pozmda01.duni.org/api/DuniTasks/service";
+                    string url = "https://pozmda02.duni.org/api/DuniTasks/service";
                     //string url = "https://localhost:44396/api/DuniTasks/service";
                     return await client.PostAsJsonAsync<CreateTaskPozmda01_sBody>(url,body);
 

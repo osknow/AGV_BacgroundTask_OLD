@@ -178,7 +178,7 @@ namespace AGV_BackgroundTask
 
         static async Task<HttpResponseMessage> PostMachinesToPOZMDA(AGV_SubMachine data)
         {
-            string HttpSerwerURI = "https://pozmda01.duni.org/api/Agv/AGV_IPOINTStatusUpdate";
+            string HttpSerwerURI = "https://pozmda02.duni.org/api/Agv/AGV_IPOINTStatusUpdate";
             //string HttpSerwerURI = "https://localhost:44396/api/Agv/AGV_IPOINTStatusUpdate";
             try
             {
@@ -295,9 +295,7 @@ namespace AGV_BackgroundTask
         
         static async Task ChangeTaskStatusByAGV(int status , string duniTaskDetails)
         {
-            var url = $"https://pozmda01.duni.org/api/DuniTasks/changeTaskStatusByAGV/{status}/{duniTaskDetails}";
-            // LINK:
-            //pozmda01.duni.org:81//api/DuniTasks/changeTaskStatusByAGV/{status}/{duniTaskDetails}"
+            var url = $"https://pozmda02.duni.org/api/DuniTasks/changeTaskStatusByAGV/{status}/{duniTaskDetails}";
 
             using (var client = new HttpClient())
             {
